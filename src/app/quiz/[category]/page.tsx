@@ -38,7 +38,7 @@ export default function QuizPage() {
     if (!category) return;
 
     setIsLoading(true);
-    fetch(`http://localhost:5000/api/questions/${decodedCategory}`)
+    fetch(`https://quizmaster-api-um36.onrender.com/api/questions/${decodedCategory}`)
       .then((res) => {
         if (!res.ok) throw new Error("Failed to fetch questions.");
         return res.json();
