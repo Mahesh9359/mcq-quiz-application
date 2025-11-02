@@ -1,6 +1,6 @@
 "use client";
 import Link from "next/link";
-import { BrainCircuit, Trophy, Timer, Users, User } from "lucide-react";
+import { BrainCircuit, Trophy, Timer, User } from "lucide-react";
 
 export default function HomePage() {
   const categories = [
