@@ -15,7 +15,7 @@ export default function AboutPage() {
             Welcome to <strong>QuizMaster</strong>, your ultimate destination for testing your knowledge across various topics!
           </p>
           <p>
-            Our platform allows users to take quizzes, view results, and track performance. Whether you're preparing for exams or just having fun, QuizMaster is designed to be fast, responsive, and easy to use.
+            Our platform allows users to take quizzes, view results, and track performance. Whether you&apos;re preparing for exams or just having fun, QuizMaster is designed to be fast, responsive, and easy to use.
           </p>
           
         </div>
